@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+section#conteudo {
+	
+	width: 1000px;
+	margin: auto;
+	
+}
+iframe#lapada {
+	width: 380px;
+	height: 280px;
+	border: none;
+	
+}
+
+iframe#lapada::-webkit-scrollbar {
+	display: none;
+	
+}
